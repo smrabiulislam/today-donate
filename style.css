@@ -3,9 +3,15 @@ body {
 }
 
 /* for donate today section */
+
+.sec {
+    margin: 0px 388px;
+}
+
 .donate {
     display: flex;
-    margin: 0px 360px;
+    margin: 60px 0px;
+
 }
 
 .donate1 {
@@ -32,10 +38,13 @@ body {
 }
 
 .donet-form {
-    margin: 0px 360px;
+    margin-top: 30px;
 }
 
-.form1 {}
+.form1 {
+    margin-right: 63px;
+    margin-left: 15px;
+}
 
 .input22 {
     padding: 25px;
@@ -47,7 +56,18 @@ body {
     border-width: 0px 0px 2px 0px;
 }
 
-.input222 {}
+.input222 {
+    padding: 10px;
+    margin: 40px 232px;
+    text-align: center;
+    background-color: orangered;
+    padding: 15px 0px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: aliceblue;
+    border-width: 0px;
+
+}
 
 /* for donate section */
 
