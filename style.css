@@ -1,6 +1,9 @@
 body {
     margin: 0px;
+    font-family: 'Roboto', sans-serif;
 }
+
+
 
 .main-baner {
     background-image: url(photo/donation13.jpg);
@@ -26,7 +29,7 @@ body {
     text-align: center;
     font-size: 25px;
     color: #fff;
-    line-height: 30px;
+    line-height: 36px;
 }
 
 .baner-btn {
@@ -40,13 +43,14 @@ body {
     border-radius: 5px;
     font-size: 20px;
     color: aliceblue;
-    margin: 40px 270px;
+    margin: 40px 265px;
 }
 
 /* for donate today section */
 
 .sec {
     margin: 0px 388px;
+    padding-top: 50px;
 }
 
 .donate {
@@ -111,6 +115,11 @@ body {
 }
 
 /* for donate section */
+
+.sec2 {
+    padding-top: 50px;
+
+}
 
 .card-con {
     padding: 0px 380px;
