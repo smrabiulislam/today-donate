@@ -2,6 +2,86 @@ body {
     margin: 0px;
 }
 
+/* section 1 */
+.blog1 {
+    display: flex !important;
+}
+
+.blog1a {
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.blog1d {
+    width: 100%;
+}
+
+.or {
+    color: orangered;
+}
+
+.blog1b {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 30px;
+}
+
+.image1 {
+    width: 100%;
+}
+
+.bt1 {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
+/* blog section 2*/
+
+.blog2 {
+    display: flex;
+}
+
+.abc2 {
+    width: 100%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+
+.blog2a {
+    width: 100%;
+}
+
+.or {
+    color: orangered;
+}
+
+.blog2c {
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 30px;
+    text-align: left;
+}
+
+.blog2d {
+    text-align: left;
+}
+
+.image2 {
+    width: 100%;
+}
+
+.bt2 {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: aliceblue;
+}
+
 /* CSS for Contact*/
 .con-2 {
     margin: 0px 350px;
