@@ -5,13 +5,14 @@ body {
 /* section 1 */
 .blog1 {
     display: flex !important;
-    padding: 40px 80px;
+    padding: 80px 80px;
+    margin: 0px 90px;
 }
 
 .blog1a {
     width: 100%;
-    padding-left: 100px;
-    padding-top: 100px;
+    padding-top: 20px;
+    padding-right: 80px;
 }
 
 .blog1d {
@@ -25,18 +26,27 @@ body {
 .blog1b {
     font-size: 50px;
     font-weight: 800;
-    line-height: 30px;
+    line-height: 50px;
+}
+
+
+.blog1c {
+    padding-bottom: 35px;
+    font-size: 20px;
 }
 
 .image1 {
-    width: 100%;
+    width: 565px;
+    border-radius: 10px;
+    height: auto;
 }
 
 .bt1 {
     text-decoration: none;
     background-color: orangered;
-    padding: 10px 40px;
+    padding: 15px 40px;
     border-radius: 5px;
+    font-size: 20px;
     color: aliceblue;
 }
 
@@ -44,7 +54,8 @@ body {
 
 .blog2 {
     display: flex;
-    padding: 40px 80px;
+    padding: 80px 80px;
+    margin: 0px 90px;
 }
 
 .abc2 {
@@ -70,25 +81,36 @@ body {
 
 .blog2d {
     text-align: left;
+    padding-bottom: 35px;
+    font-size: 20px;
 }
 
 .blog2e {
     padding-left: 50px;
+    padding-top: 20px;
 }
 
 .image2 {
-    width: 100%;
+    width: 565px;
+    border-radius: 10px;
+    height: auto;
 }
 
 .bt2 {
     text-decoration: none;
     background-color: orangered;
-    padding: 10px 40px;
+    padding: 15px 40px;
     border-radius: 5px;
     color: aliceblue;
+    font-size: 20px;
 }
 
 /* CSS for Contact*/
+
+.contact {
+    padding: 50px 0px;
+}
+
 .con-2 {
     margin: 0px 350px;
 }
@@ -96,18 +118,45 @@ body {
 .contacth {
     text-align: center;
     font-size: 30px;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 30px;
+
 }
 
 .contactp {
     text-align: center;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .forms {
     margin: 50px 0px;
-    padding: 120px 14px 120px 270px;
-    background-color: tomato;
+    padding: 100px 0px 100px 200px;
+    background-color: rgb(233, 240, 167);
 }
+
+.input1 {
+    padding: 13px 15px;
+    border-radius: 5px 0px 0px 5px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    color: #d2cccc;
+
+}
+
+
+input.input2 {
+    padding: 13px 40px;
+    border-radius: px 5px 5px 0px;
+    font-size: 20px;
+    font-weight: 600;
+    border: none;
+    margin-left: -5px;
+    background-color: #f44336;
+    color: #fff;
+}
+
 
 /* CSS for Footer section*/
 .footer {
@@ -119,11 +168,13 @@ body {
     color: tomato;
     text-align: center;
 
+
 }
 
 .footer-p {
     color: aliceblue;
     text-align: center;
+
 }
 
 .footer-copy {
