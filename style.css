@@ -2,6 +2,47 @@ body {
     margin: 0px;
 }
 
+.main-baner {
+    background-image: url(photo/donation13.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 180px 10px 262px 10px;
+}
+
+.baner1 {
+    margin: 0px 388px;
+}
+
+.banner-h {
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+    line-height: 65px;
+    color: #fff;
+}
+
+.ban-p {
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    line-height: 30px;
+}
+
+.baner-btn {
+    padding-top: 30px;
+}
+
+.ban-btn {
+    text-decoration: none;
+    background-color: orangered;
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-size: 20px;
+    color: aliceblue;
+    margin: 40px 270px;
+}
+
 /* for donate today section */
 
 .sec {
@@ -38,7 +79,7 @@ body {
 }
 
 .donet-form {
-    margin-top: 30px;
+    margin: 10px 61px 10px 14px;
 }
 
 .form1 {
