@@ -1,0 +1,30 @@
+body {
+    margin: 0px;
+}
+
+/* CSS for Contact*/
+.con-2 {
+    margin: 0px 350px;
+}
+
+/* CSS for Footer section*/
+.footer {
+    background-color: black;
+    padding: 60px 0px;
+}
+
+.footer-h {
+    color: tomato;
+    text-align: center;
+
+}
+
+.footer-p {
+    color: aliceblue;
+    text-align: center;
+}
+
+.footer-copy {
+    color: #ffff;
+    text-align: center;
+}
